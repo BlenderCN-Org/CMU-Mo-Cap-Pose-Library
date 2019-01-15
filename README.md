@@ -1,7 +1,7 @@
 # CMU-Mo-Cap-Pose-Library
 This project is an attempt to clean up the CMU Mo-Cap Library of bvh files found here: http://www.cgspeed.com/2014/06/interim-files-listing-part-5-updated.html
 
-I've created a template blender file, with a base character added, which unfortunately is too large to upload to Github, which has a max file size of 25 megabytes.
+I've created a template blender file, with a base character added, which unfortunately is too large to upload to Github, which has a max file size of 25 megabytes. This Blender v2.80 beta file which relies on MB-Lab v1.70 is available here: https://drive.google.com/open?id=1GL0g-dQMUfVkg6c36WgUi2Q-YUCwVva7
 
 I'm in the process of loading the bvh files, 1 per blender file, which I am cleaning and exporting to ##-## v1.bvh.
 I intend to skip any files that are simply a t-pose, or otherwise too short to bother with.
