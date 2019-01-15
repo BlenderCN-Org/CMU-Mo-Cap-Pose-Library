@@ -12,7 +12,9 @@ Then make corrections to the animation, such as cleaning up any issues with hand
 The basic framework is
 
 xx-xx raw.blend for files with a token MB-Lab character with the raw bvh file.
+
 xx-xx v1.blend for files that have been cleaned and major bone issues.
+
 xx-xx v[description] to allow for different approaches to cleaning the animation.
 
 This project is an excellent opportunity to practice animation skills, and gain experience correcting data errors.
